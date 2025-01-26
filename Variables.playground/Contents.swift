@@ -2,6 +2,8 @@ import Foundation
 
 //MARK: IMPORTANT!
 /// let declares a constant, so the value cannot be reassigned to a new value. But, if we have reference types, let only prevents reassignment of the reference, - not mutate on the object's internal state.
+
+
 //let - cannot be assigned to again
 let myName = "Ethan John"
 //var - can be assigned to again
